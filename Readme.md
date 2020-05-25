@@ -2,8 +2,8 @@
 
 This project demonstrates using the Matplotlib Python module to visualize data. This project consists of two files:
 
-* constellation.ipynb - A Jupyter Notebook provided to me by Codecademy which I have modified as per their instructions.
-* constellation.py - The downloaded Python file from the notebook.
+* [constellation.ipynb](https://github.com/Gonnuru/OrionConstellation/blob/master/constellation.ipynb) - A Jupyter Notebook provided to me by Codecademy which I have modified as per their instructions.
+* [constellation.py](https://github.com/Gonnuru/OrionConstellation/blob/master/constellation.py) - The downloaded Python file from the notebook.
 
 I mostly followed the base instructions but I did do a few enhancements:
 * 2D Visualization
